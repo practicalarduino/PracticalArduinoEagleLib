@@ -35,3 +35,4 @@ PARTS INCLUDED
  * LED  Surface-mount LED on oversized 0805 pads
  * RESISTOR  Surface-mount resistor on oversized 0805 pads
  * SPEAKJET  SpeakJet speech synthesizer chip in SOIC18 package with oversized pads
+ * RXB1  433Mhz receiver module in SIL PTH package
