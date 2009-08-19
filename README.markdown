@@ -27,3 +27,11 @@ or send a letter to
   San Francisco  
   California, 94105  
   USA
+
+PARTS INCLUDED
+--------------
+
+ * CAPACITOR  Non-polarised surface-mount cap on oversized 0805 pads
+ * LED  Surface-mount LED on oversized 0805 pads
+ * RESISTOR  Surface-mount resistor on oversized 0805 pads
+ * SPEAKJET  SpeakJet speech synthesizer chip in SOIC18 package with oversized pads
