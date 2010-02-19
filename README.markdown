@@ -31,8 +31,11 @@ or send a letter to
 PARTS INCLUDED
 --------------
 
- * CAPACITOR  Non-polarised surface-mount cap on oversized 0805 pads
- * LED  Surface-mount LED on oversized 0805 pads
- * RESISTOR  Surface-mount resistor on oversized 0805 pads
- * SPEAKJET  SpeakJet speech synthesizer chip in SOIC18 package with oversized pads
- * RXB1  433Mhz receiver module in SIL PTH package
+ * CAPACITOR  Non-polarised surface-mount cap on oversized 0805 pads.
+ * LED        Surface-mount LED on oversized 0805 pads.
+ * RESISTOR   Surface-mount resistor on oversized 0805 pads.
+ * SPEAKJET   SpeakJet speech synthesizer chip in SOIC18 package with oversized pads.
+ * RXB1       433Mhz receiver module in SIL PTH package.
+ * VDIP1      Module containing Vinculum VNC1L USB host chip.
+ * PA-LOGO    Practical Arduino logo
+ * RADIAL-0.3 Standard radial PTH resistor
